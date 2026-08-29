@@ -22,7 +22,7 @@ The tool can help resolve an issue where large disks are incorrectly detected as
 ## Presentation
 
 <video controls width="800">
-  <source src="./video/0824.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/jdivisionTools/CCBootGameDiskFixTool/main/video/0824.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
