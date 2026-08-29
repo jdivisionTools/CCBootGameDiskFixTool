@@ -30,15 +30,13 @@ This tool eliminates manual recovery by instantly restoring the GPT structure an
 
 ### 🔍 Error State & Diagnosis
 > What happens when Windows and CCBoot Classic fail to read the GPT backup header on large drives.
-
 ![Error State](https://github.com/jdivisionTools/CCBootGameDiskFixTool/blob/main/video/130358.webp)
 
 ---
 
 ### 🚀 Live Demonstration
 > How the tool automatically restores the disk structure and brings everything back online.
-
-![Live D
+![Live Demo](https://github.com/jdivisionTools/CCBootGameDiskFixTool/blob/main/video/0824.webp)
 ---
 
 ## 🚀 Quick Start & Usage
