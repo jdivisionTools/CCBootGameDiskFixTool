@@ -21,9 +21,10 @@ The tool can help resolve an issue where large disks are incorrectly detected as
 
 ## Presentation
 
-Watch the video presentation:
-
-[Watch the presentation](./video/0824.mp4)
+<video controls width="800">
+  <source src="./video/0824.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
