@@ -20,7 +20,7 @@ A specialized utility designed to keep your CCBoot Classic game disks healthy an
 
 Large **GPT partition table** game disks (**>2TB**) in CCBoot Classic environments frequently encounter partition table corruption following unexpected reboots, leading to the dreaded error state:
 
-> ⚠️ **Unallocated Disk**
+> ⚠️ **Unallocated Game Disk** Windows 25h2 or letter version in CCBoot/CCU/Other Diskless
 
 This tool eliminates manual recovery by instantly restoring the GPT structure and keeping your system running smoothly.
 
