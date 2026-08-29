@@ -21,7 +21,7 @@ The tool can help resolve an issue where large disks are incorrectly detected as
 
 ## Presentation
 
-![Watch the presentation](https://github.com/jdivisionTools/CCBootGameDiskFixTool/blob/bd2942b667069f14a60bc8b5788cb1f03a5b9b16/video/0824.webp)
+![Watch the presentation](https://github.com/jdivisionTools/CCBootGameDiskFixTool/blob/main/video/0824.webp)
 
 
 
