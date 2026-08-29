@@ -35,6 +35,7 @@ This tool eliminates manual recovery by instantly restoring the GPT structure an
 ---
 
 ## 🚀 Quick Start & Usage
+📖 For detailed setup instructions regarding Windows 25H2 and disk letter configuration, check the [Configuration Manual](manual.md).
 
 1. 📥 Download the latest version from the [Releases](../../releases) page.
 2. ⚙️ Install and configure the service to run with required administrative permissions.
