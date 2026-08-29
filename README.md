@@ -1,50 +1,49 @@
-# CCBoot Classic GPT Repair Tool
+# CCBoot Classic GPT Repair Tool 🛠️
 
-A utility for repairing GPT partition tables on CCBoot Classic game disks.
+> 🚀 **Automated background service** for CCBoot Classic that automatically repairs and fixes large GPT game disks (>2TB) after every system reboot.
 
-The program supports two repair modes:
+A specialized utility designed to keep your CCBoot Classic game disks healthy and accessible. The program runs as a background service, ensuring that after every system reboot your large GPT game disks are automatically fixed and ready to use without manual intervention.
 
-- **Standard Mode** — for regular GPT repair operations.
-- **Super Mode** — for advanced repair of problematic disks.
+---
 
-The tool can help resolve an issue where large disks are incorrectly detected as:
+## ✨ Key Features
 
-> Unallocated Disk
+- ✅ **Automatic Reboot Recovery** — Background service that fixes disks automatically after every system restart
+- ✅ **Standard Mode** — Safe, routine GPT partition table repair operations
+- ✅ **Super Mode** — Advanced deep-repair protocols for heavily corrupted or problematic disks
+- ✅ **Large GPT Disk Support** — Full compatibility with high-capacity drives (**larger than 2TB**) using the GPT partition table format, which Windows frequently flags incorrectly
+- ✅ **Seamless Integration** — Designed specifically for CCBoot Classic environments
 
-## Features
+---
 
-- GPT partition table repair
-- Standard and Super repair modes
-- Support for large disks
-- Designed for use with CCBoot Classic
-- Simple and convenient interface
+## 🔍 What Problem Does It Solve?
 
-## Presentation
-![Watch the error GPT](https://github.com/jdivisionTools/CCBootGameDiskFixTool/blob/main/video/130358.webp)
+Large **GPT partition table** game disks (**>2TB**) in CCBoot Classic environments frequently encounter partition table corruption following unexpected reboots, leading to the dreaded error state:
 
-![Watch the presentation](https://github.com/jdivisionTools/CCBootGameDiskFixTool/blob/main/video/0824.webp)
+> ⚠️ **Unallocated Disk**
 
+This tool eliminates manual recovery by instantly restoring the GPT structure and keeping your system running smoothly.
 
+---
 
-## Usage
+## 📺 Visual Presentation
 
-1. Download the latest version from the [Releases](../../releases) page.
-2. Run the program with the required permissions.
-3. Select the appropriate repair mode:
-   - **Standard Mode**
-   - **Super Mode**
-4. Select the disk that is incorrectly displayed as unallocated.
-5. Follow the instructions provided by the program.
+| Error State & Diagnosis | Live Demonstration |
+| :---: | :---: |
+| ![Error State](https://github.com/jdivisionTools/CCBootGameDiskFixTool/blob/main/video/130358.webp) | ![Live Demo](https://github.com/jdivisionTools/CCBootGameDiskFixTool/blob/main/video/0824.webp) |
 
-## Important
+---
 
-Before using the tool, make sure that the selected disk is correct. Incorrect use of disk repair tools may result in data loss.
+## 🚀 Quick Start & Usage
 
-It is strongly recommended to create a backup before performing any repair operation.
-
-## Build from source
-
-Clone the repository:
+1. 📥 Download the latest version from the [Releases](../../releases) page.
+2. ⚙️ Install and configure the service to run with required administrative permissions.
+3. 🎛️ Select your operational mode:
+   - **Standard Mode** — For regular GPT partition table maintenance.
+   - **Super Mode** — For persistent or severe disk corruption.
+4. 💾 Choose the target game disk showing as unallocated.
+5. ▶️ Let the automated service handle the rest upon every system boot.
 
 ```bash
-download: https://mega.nz/file/9zYXmJKa#Ek0NlO_fb4pISHEmQnxmXsBwMwYiWoIBkg-Xq3kDsmk
+
+Alternative Download Link: https://mega.nz/file/9zYXmJKa#Ek0NlO_fb4pISHEmQnxmXsBwMwYiWoIBkg-Xq3kDsmk
