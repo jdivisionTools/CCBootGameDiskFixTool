@@ -20,6 +20,7 @@ The tool can help resolve an issue where large disks are incorrectly detected as
 - Simple and convenient interface
 
 ## Presentation
+![Watch the error GPT](https://github.com/jdivisionTools/CCBootGameDiskFixTool/blob/main/video/130358.webp)
 
 ![Watch the presentation](https://github.com/jdivisionTools/CCBootGameDiskFixTool/blob/main/video/0824.webp)
 
